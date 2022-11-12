@@ -1,0 +1,64 @@
+.parallax {
+  /* The image used */
+  background-image: url("https://disk.mediaindonesia.com/thumbs/1800x1200/news/2021/02/8df6e45ac2d533c170fd552968312cb6.jpg");
+
+  /* Set a specific height */
+  /*min-height: 650px; */
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*.footerLanding{
+  background-color: #2a4d69;
+}
+
+.contentLanding{
+   background-color: #4b86b4;
+   color: white;
+}
+
+.contentLanding-center{
+   background-color: #2a4d69;
+   color: white;
+}
+
+.navbarLanding{
+  background-color:  #223e54;
+}
+
+.card{
+  background-color: #2a4d69;
+}*/
+
+.footerLanding{
+  background-color: #F6D167;
+  color: black;
+}
+
+.contentLanding{
+   background-color: #FFE87C;
+   color: black;
+}
+
+.contentLanding-center{
+   background-color: #FFB449;
+   color: black;
+}
+
+.navbarLanding{
+  background-color:  #F6D167;
+  color: red;
+}
+
+.card{
+  background-color: rgba(0,0,0, 0.1);
+}
+
+.buttonPage{
+  background-color: #DF2E2E;
+}
+
